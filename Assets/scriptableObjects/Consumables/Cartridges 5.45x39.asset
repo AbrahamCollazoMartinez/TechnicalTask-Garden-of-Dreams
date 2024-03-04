@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b6604ee0b55d34f4bbcad1d6c3b2140d, type: 3}
+  m_Name: Cartridges 5.45x39
+  m_EditorClassIdentifier: 
+  maxStack: 100
+  weigh: 0.03
+  iconID: Cartridges 5.45x39
+  nameAsset: Cartridges 5.45x39
+  consumableType: 0
+  restoreHealAmount: 0
+  damageAmount: 9
